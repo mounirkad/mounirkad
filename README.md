@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="TON_PORTFOLIO">
-    <img src="https://img.shields.io/badge/🔗_MY_PROJECTS-0A1628?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="[https://img.shields.io/badge/](https://kadiri-mounir-portfolio.netlify.app/)🔗_MY_PROJECTS-0A1628?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 * 🔧 I enjoy designing, developing and improving real-world software solutions
 * 🌍 Open to **international opportunities and remote positions**
 * 💬 Ask me about **Laravel, PHP, SQL, MySQL, JavaScript, Python & REST APIs**
-* 📫 Reach me at: **TON_EMAIL**
+* 📫 Reach me at: mounir2.kad@gmail.com
 * ⚡ Fun fact: I enjoy **running, strength training, hiking and cinema** 🎬
 
 ---
