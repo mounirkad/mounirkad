@@ -82,11 +82,12 @@ Git • GitHub • Docker • Figma
 
 ---
 
-### 📈 Most Used Languages
+### 📈 Most Used Languages & Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,java,js,ts,html,css,mysql,docker,git" />
 </p>
+
 
 ---
 
