@@ -6,9 +6,7 @@
   <a href="https://kadiri-mounir-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔗_My_Portfolio-0A1628?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://github.com/mounirkad" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
@@ -41,7 +39,7 @@ A web platform for reporting and managing urban road problems, connecting citize
 🔹 **Data Science & Machine Learning**
 Projects involving data analysis, NLP, classification and machine learning using Python, R and Weka.
 
-👉 Check out more of my work on my **[Portfolio](https://kadiri-mounir-portfolio.netlify.app/)** and **[GitHub](https://github.com/mounirkad)**.
+👉 Check out more of my work on my **[Portfolio](https://kadiri-mounir-portfolio.netlify.app/)**
 
 ---
 
